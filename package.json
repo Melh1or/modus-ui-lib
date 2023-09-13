@@ -1,6 +1,6 @@
 {
   "name": "modus-ui-lib",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "description": "## Publish 1. Test, commit and push changes 2. Update lib version `npm version major | minor | patch` 3. Run `npm publish`",
   "private": false,
   "main": "./dist/index.js",
